@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <math.h>
 void findDuplicates(int arr[], int n) {
 
     int sum = 0;

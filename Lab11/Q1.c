@@ -63,7 +63,7 @@ void printMST(int parent[], struct Graph* graph) {
         printf("\n");
     }
 }
-
+//all code done
 // Function to construct and find the minimum spanning tree
 void findMinimumSpanningTree(struct Graph* graph) {
     int parent[graph->V];
